@@ -1,6 +1,9 @@
 body {
   background-color: navajowhite;
 }
+header {
+  text-align: center;
+}
 
 .article_1 {
   background-color: lightgreen;
